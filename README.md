@@ -12,7 +12,7 @@ I'm a **software engineer** and Computer Science student (accelerated B.S./M.S.)
 
 ### 🛠️ What I'm doing now
 - **AI & Innovation Intern, Lyles Construction Group:** full web apps in C# and React, including 2 survey apps with dashboards in production and an ERP data pipeline that runs every 15 minutes.
-- **Research Assistant, Generative AI, Fresno State:** RAG and generative model benchmarking. Won **People's Choice at INSPIRE 2026**.
+- **Research Assistant, Generative AI, Fresno State:** building **Hibiki-AI**, AI historical personas grounded with RAG. Won the **People's Choice Award at the 2026 INSPIRE Convening** 🏅
 - **Website & Social Media Intern, Madera K-16 Collaborative.**
 
 ### ✨ Highlights

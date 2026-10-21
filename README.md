@@ -11,7 +11,7 @@ I'm a **software engineer** and Computer Science student (accelerated B.S./M.S.)
 [![Email](https://img.shields.io/badge/Email-rowanelansary123%40gmail.com-131a2a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rowanelansary123@gmail.com)
 
 ### 🛠️ What I'm doing now
-- **AI & Innovation Intern, Lyles Construction Group:** shipping features on Progress & Projection, a Next.js + .NET platform for job costing and subcontract management integrated with the company ERP. I also build 2 survey apps now in production, each with its own dashboard.
+- **AI & Innovation Intern, Lyles Construction Group:** shipping features on Progress & Projection, a Next.js + .NET platform for job costing and subcontract management integrated with the company ERP. Before this, I built and shipped 2 survey apps, now in production, each with its own dashboard.
 - **Research Assistant, Generative AI, Fresno State:** on **Hibiki-AI**, which lets you talk with a person from history in their own words. I built its synthetic-media video filter in OpenCV. Won the **People's Choice Award at the 2026 INSPIRE Convening** 🏅
 - **Website & Social Media Intern, Madera K-16 Collaborative.**
 

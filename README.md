@@ -2,13 +2,13 @@
 
 ## Hi, I'm Rowan 👋
 
-I'm a **software engineer** and Computer Science student (accelerated B.S./M.S.) at **Fresno State**. I build full-stack apps that go all the way to production, research generative AI, and make content for **1.4M followers on [TikTok](https://www.tiktok.com/@rowan.hosam)**. I like making things people actually enjoy.
+I'm a **software engineer** and Computer Science student (accelerated B.S./M.S.) at **Fresno State**. I build full-stack apps that go all the way to production, research generative AI, and teach photography to **1.4M followers on [TikTok](https://www.tiktok.com/@rowan.hosam)**. I like making things people actually enjoy.
 
 **🎯 Open to a Summer 2027 internship** in full stack, front end, back end, app design or AI.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_my_site-2b45f5?style=for-the-badge)](https://rowanhosam.github.io/rowan-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rowan--elansary-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rowan-elansary)
-[![TikTok](https://img.shields.io/badge/TikTok-1.4M_followers-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@rowan.hosam)
+[![TikTok](https://img.shields.io/badge/TikTok-Teaching_photography_·_1.4M-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@rowan.hosam)
 [![Email](https://img.shields.io/badge/Email-rowanelansary123%40gmail.com-131a2a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rowanelansary123@gmail.com)
 
 ### 🛠️ What I'm doing now

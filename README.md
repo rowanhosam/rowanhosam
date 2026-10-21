@@ -4,19 +4,19 @@
 
 I'm a **software engineer** and Computer Science student (accelerated B.S./M.S.) at **Fresno State**. I build full-stack apps that go all the way to production, and I research generative AI on the side.
 
-**🎯 Open to a Summer 2027 internship** (mid-May to late August) in full stack, front end, back end, app design or AI.
+**🎯 Open to a Summer 2027 internship** in full stack, front end, back end, app design or AI.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_my_site-2b45f5?style=for-the-badge)](https://rowanhosam.github.io/rowan-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rowan--elansary-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rowan-elansary)
 [![Email](https://img.shields.io/badge/Email-rowanelansary123%40gmail.com-131a2a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rowanelansary123@gmail.com)
 
 ### 🛠️ What I'm doing now
-- **AI & Innovation Intern, Lyles Construction Group:** full web apps in C# and React, including 2 survey apps with dashboards in production and an ERP data pipeline that runs every 15 minutes.
-- **Research Assistant, Generative AI, Fresno State:** building **Hibiki-AI**, AI historical personas grounded with RAG. Won the **People's Choice Award at the 2026 INSPIRE Convening** 🏅
+- **AI & Innovation Intern, Lyles Construction Group:** shipping features on Progress & Projection, a Next.js + .NET platform for job costing and subcontract management integrated with the company ERP. I also built 2 survey apps now in production.
+- **Research Assistant, Generative AI, Fresno State:** on **Hibiki-AI**, which lets you talk with a person from history in their own words. I built its synthetic-media video filter in OpenCV. Won the **People's Choice Award at the 2026 INSPIRE Convening** 🏅
 - **Website & Social Media Intern, Madera K-16 Collaborative.**
 
 ### ✨ Highlights
-- Shipped 2 full-stack apps to production on Azure, and found and fixed 4 vulnerabilities before release
+- Found and fixed 4 security and data-integrity vulnerabilities before release
 - Built a research-projects readiness-scoring engine end to end (Svelte, FastAPI, PostgreSQL) at F3 Innovate
 - Real-time object detection and 3D localization with YOLOv8 at 91% accuracy
 - Designed, built and run a membership website with 2,000+ users
@@ -32,6 +32,8 @@ I'm a **software engineer** and Computer Science student (accelerated B.S./M.S.)
 ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 <br>
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)

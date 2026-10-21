@@ -2,7 +2,7 @@
 
 ## Hi, I'm Rowan 👋
 
-I'm a **software engineer** and Computer Science student (accelerated B.S./M.S.) at **Fresno State**. I build full-stack apps that go all the way to production, and I research generative AI on the side.
+I'm a **software engineer** and Computer Science student (accelerated B.S./M.S.) at **Fresno State**. I build full-stack apps that go all the way to production, research generative AI, and make content for **1.4M followers**. I like making things people actually enjoy.
 
 **🎯 Open to a Summer 2027 internship** in full stack, front end, back end, app design or AI.
 
